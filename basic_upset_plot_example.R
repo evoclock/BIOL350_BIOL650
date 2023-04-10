@@ -2,10 +2,11 @@
 # BIOL350 and BIOL659 at Texas A&M University.
 # Author: J. Gamboa
 # email: jargamboa@tamu.edu
-# 2023
+# April 2023
 
 
-# Load required packages
+# Load required packages. Both packages are available in CRAN via the 'Packages'
+# tab.
 library(UpSetR)
 library(readr)
 
